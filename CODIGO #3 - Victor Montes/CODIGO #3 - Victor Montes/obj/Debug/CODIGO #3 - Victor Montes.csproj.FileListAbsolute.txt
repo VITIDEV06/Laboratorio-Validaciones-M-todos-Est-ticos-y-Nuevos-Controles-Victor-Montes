@@ -1,0 +1,10 @@
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\bin\Debug\CODIGO #3 - Victor Montes.exe.config
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\bin\Debug\CODIGO #3 - Victor Montes.exe
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\bin\Debug\CODIGO #3 - Victor Montes.pdb
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\obj\Debug\CODIGO #3 - Victor Montes.csproj.AssemblyReference.cache
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\obj\Debug\CODIGO__3___Victor_Montes.Form1.resources
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\obj\Debug\CODIGO__3___Victor_Montes.Properties.Resources.resources
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\obj\Debug\CODIGO #3 - Victor Montes.csproj.GenerateResource.cache
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\obj\Debug\CODIGO #3 - Victor Montes.csproj.CoreCompileInputs.cache
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\obj\Debug\CODIGO #3 - Victor Montes.exe
+C:\Users\victo\University\SEMESTRE VI\HPA 3\Laboratorios\Laboratorio #3\CODIGO #3 - Victor Montes\CODIGO #3 - Victor Montes\obj\Debug\CODIGO #3 - Victor Montes.pdb
