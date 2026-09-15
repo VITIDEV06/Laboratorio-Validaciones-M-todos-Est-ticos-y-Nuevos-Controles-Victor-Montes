@@ -94,7 +94,7 @@ Aplicar diferentes mecanismos de validación y controles de interfaz en aplicaci
 
 | Tecnología                                                                | Uso                                |
 | ------------------------------------------------------------------------- | ---------------------------------- |
-| <img src="https://cdn.simpleicons.org/csharp/512BD4" width="22"> **C#**   | Desarrollo de todos los ejercicios |
+| <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" height="22"> **C#**   | Desarrollo de todos los ejercicios |
 | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="22"> **.NET** | Plataforma de ejecución            |
 | **.NET Framework 4.7.2**                                                  | Código #1 y Código #3              |
 | **.NET 10**                                                               | Código #2                          |
@@ -103,9 +103,9 @@ Aplicar diferentes mecanismos de validación y controles de interfaz en aplicaci
 
 | Herramienta                                                                              | Utilización                                 |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------- |
-| <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="22"> **Visual Studio** | Desarrollo, compilación y ejecución         |
+| <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" height="22"> **Visual Studio** | Desarrollo, compilación y ejecución         |
 | <img src="https://cdn.simpleicons.org/git/F05032" width="22"> **Git**                    | Control de versiones                        |
-| <img src="https://cdn.simpleicons.org/github/181717" width="22"> **GitHub**              | Almacenamiento y documentación del proyecto |
+| <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22"> **GitHub**              | Almacenamiento y documentación del proyecto |
 
 ### Componentes y conceptos
 
